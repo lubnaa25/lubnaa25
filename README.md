@@ -1,8 +1,7 @@
 ### Hello there 👋 // Salut Salut 👋 
 
 
- ![Welcome to my Github Profile (1)](https://user-images.githubusercontent.com/38241109/126203568-5f16e203-7494-4f64-8709-e926d0e8c2a3.gif)
-
+![Welcome to my Github Profile](https://user-images.githubusercontent.com/38241109/126204094-aed8f15e-abed-45f5-9e89-6baf5b932ef8.gif)
 <!--
 **lubnaa25/lubnaa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

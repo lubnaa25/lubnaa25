@@ -1,7 +1,7 @@
 ### Hello there 👋 // Salut Salut 👋 
 
-![Github banner (3)](https://github.com/lubnaa25/lubnaa25/blob/ab417e4b9fcd9b76a8d4ff409cdb7eac7cc02e50/Welcome%20to%20my%20Github%20Profile.gif)
- 
+
+ ![Welcome to my Github Profile (1)](https://user-images.githubusercontent.com/38241109/126203568-5f16e203-7494-4f64-8709-e926d0e8c2a3.gif)
 
 <!--
 **lubnaa25/lubnaa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

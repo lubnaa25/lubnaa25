@@ -1,18 +1,19 @@
-### Hello there 👋 // Salut Salut 👋 
-
-
 ![Welcome to my Github Profile](https://user-images.githubusercontent.com/38241109/126204094-aed8f15e-abed-45f5-9e89-6baf5b932ef8.gif)
 <!--
 **lubnaa25/lubnaa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### Hello there 👋 // Salut Salut 👋 
+
+- ⚡ I'm still a newbie to GIT...So, my page is a Work In Progres (*bear with me* :grimacing:)
+
+- 🌱 I’m currently pursuing my Masters in Data Science & Business Analytics
+
+- 🔭 I’m currently working on my masters thesis; Early Autism Detection (*coming soon on my GIT*)
+
+- 📫 How to reach me: ...
+
+- ⚡ Fun facts  
+1. I've always enjoyed studying ( *I'd be lying if I said that this wasn't a lie* :shushing_face: )   
+2. I'm multilingual (*spoken & programming languages*)  
+

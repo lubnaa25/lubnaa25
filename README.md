@@ -7,10 +7,6 @@
 
 - ⚡ I'm still a newbie to GIT...So, my page is a Work In Progres (*bear with me* :grimacing:)
 
-- 🌱 I’m currently pursuing my Masters in Data Science & Business Analytics
-
-- 🔭 I’m currently working on my masters thesis; Early Autism Detection (*coming soon on my GIT*)
-
 - 🌟 Here to see my work?
 Go right into [./Mon-Portfolio](https://github.com/lubnaa25/Mon-Portfolio)
 
@@ -19,9 +15,7 @@ Go right into [./Mon-Portfolio](https://github.com/lubnaa25/Mon-Portfolio)
   </a>&nbsp;&nbsp; <a href="mailto:lubnaa2509@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
   </a>&nbsp;&nbsp;  
   
-- ⚡ Fun facts  
-1. I've always enjoyed studying ( *I'd be lying if I said that this wasn't a lie* :shushing_face: )   
-2. I'm multilingual (*spoken & programming languages*)  
+ 
 
 
 
